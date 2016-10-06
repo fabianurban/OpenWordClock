@@ -1,4 +1,7 @@
 ﻿# OpenWordClock
+ 
+ This Version has a different pinout for using our custom 25x25cm pcb.
+ Gerber files will follow soon.
 
 Simple project for building your own Wordclock with Arduino. 
 The wordclock frame is based on the well known Ikea Ribba frame 25x25cm.
