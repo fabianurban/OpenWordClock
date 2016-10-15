@@ -1,4 +1,4 @@
-﻿# OpenWordClock
+﻿# OpenWordClock V2
  
  This Version has a different pinout for using our custom 25x25cm pcb.
  Gerber files will follow soon.
